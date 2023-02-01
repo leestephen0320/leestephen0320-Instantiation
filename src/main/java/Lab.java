@@ -18,6 +18,13 @@ public class Lab {
      * @return any object.
      */
     public Object instantiateANewObject(){
-        return null;
+        // variable
+        String item;
+
+        //constructor
+        public Object(){
+            
+        }
+
     }
 }
