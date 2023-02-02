@@ -21,10 +21,6 @@ public class Lab {
         // variable
         String item;
 
-        //constructor
-        public Object(){
-            
-        }
 
     }
 }
